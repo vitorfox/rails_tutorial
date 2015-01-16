@@ -4,5 +4,4 @@ rvm:
 deploy:
   provider: heroku
   api_key:
-    secure: d5YfbZLRQEJlmxy6ycEQ1pCNt/66Wek8ufWq4vzdevaf2KMfdk7HNpCIFYTG1mfpQ/5feN7UpnBMgHFGpMKUynQBxTQkNWVAkyTh+CayhVLoG3zGOqc61R3fpdu8uszUQAJF+dgI5IKjxLzrn+Yo7U1P5omNVH7onMCCAAQhiJY=
-    app: vitorfox-rails-tutorial
+    secure: QX7FLxzEdAQfleZaPoc6oD1JO6fgvs4eDLhzXN+/fEPvFv9su4Bhm5IG4ewp024MRYBjN6N7ts/1dhcFsSw0HKK6HyTkI2HqbGhks3nlBbb+BWY8NPLy1BAbnRBc4vp4UdqCO7sP5kt8N1GAT2tYKM4VUDbq55Gzz80b+vFDx98=
