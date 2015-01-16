@@ -1,3 +1,7 @@
 language: ruby
 rvm:
-  - 2.1.0
+- 2.1.0
+deploy:
+  api_key:
+    secure: d5YfbZLRQEJlmxy6ycEQ1pCNt/66Wek8ufWq4vzdevaf2KMfdk7HNpCIFYTG1mfpQ/5feN7UpnBMgHFGpMKUynQBxTQkNWVAkyTh+CayhVLoG3zGOqc61R3fpdu8uszUQAJF+dgI5IKjxLzrn+Yo7U1P5omNVH7onMCCAAQhiJY=
+    app: vitorfox-rails-tutorial
